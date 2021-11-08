@@ -1,4 +1,4 @@
-# Fuzzy-C-means-Clustering-Algorithm
+# Fuzzy-C-means-Clustering
 Using FCM algorithm to cluster points on a 2D plane
 
 Clusters:
